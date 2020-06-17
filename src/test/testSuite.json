@@ -29,7 +29,7 @@
                 "options": [
                   {
                     "type": "other",
-                    "value": "http://localhost:58888/"
+                    "value": "http://140.134.26.76:58888/"
                   }
                 ],
                 "tac": ""
