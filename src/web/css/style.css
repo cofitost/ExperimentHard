@@ -9,8 +9,8 @@
 .btn-blog {
   color: #ffffff;
   background-color: #37d980 !important;
-  border-radius:0;
-  margin-bottom:10px;
+  border-radius: 0;
+  margin-bottom: 10px;
   margin-left: 85%;
 }
 
@@ -19,11 +19,11 @@
 .btn-blog:active,
 .btn-blog.active {
   color: white;
-  background-color:#34ca78 !important;
+  background-color: #34ca78 !important;
 }
 
 .blogShort { 
-  border-bottom:1px solid #ddd;
+  border-bottom: 1px solid #ddd;
 }
 
 .carousel-inner {
@@ -40,4 +40,19 @@
 
 .carousel-item img {
   height: 300px;
+}
+
+form input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+form {
+  padding: 2%;
+}
+
+#login {
+  margin-top: 50px;
 }
